@@ -1,0 +1,23 @@
+### Frontend template
+# Игнорировать временные файлы и директории
+node_modules/
+.DS_Store
+Thumbs.db
+
+# Игнорировать сгенерированные файлы сборки
+/build/
+/dist/
+
+# Игнорировать логи и отчёты об ошибках
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+error.log
+
+# Игнорировать локальные настройки IDE
+.vscode/
+.idea/
+
+# Игнорировать файлы конфигурации npm и yarn
+package-lock.json
+yarn.lock
