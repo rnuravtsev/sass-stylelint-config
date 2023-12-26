@@ -1,4 +1,4 @@
-# @webperformance/sass-stylelint-config
+# stylelint-config-scss-favorite
 
 This is a minimalist yet powerful SCSS configuration package, developed with the needs of modern web developers in mind.
 
@@ -9,19 +9,19 @@ My configs for Stylelint. Uses rules from:
 ## Install
 Via npm:
 ```bash
-npm i @webperformance/sass-stylelint-config -D
+npm i stylelint-config-scss-favorite -D
 ```
 
 Via yarn:
 ```bash
-yarn add @webperformance/sass-stylelint-config -D
+yarn add stylelint-config-scss-favorite -D
 ```
 
 ## Usage
 Set your stylelint config to:
 ```json
 {
-"extends": "@webperformance/sass-stylelint-config"
+"extends": "stylelint-config-scss-favorite"
 }
 ```
 [More details how to extend](https://github.com/stylelint/stylelint/blob/main/docs/user-guide/configure.md#extends)

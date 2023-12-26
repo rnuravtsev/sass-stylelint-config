@@ -1,15 +1,11 @@
 {
-  "name": "sass-stylelint-config",
-  "version": "1.0.0",
-  "description": "",
+  "name": "stylelint-config-scss-favorite",
+  "version": "1.0.1",
+  "description": "Simple and effective scss stylelint config",
   "main": "index.js",
-  "scripts": {
-    "build": "",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rnuravtsev/sass-stylelint-config.git"
+    "url": "git+https://github.com/rnuravtsev/stylelint-config-scss-favorite.git"
   },
   "keywords": [
     "sass",
@@ -20,9 +16,9 @@
   "author": "Albert Muravtsev <t.me/@rnuravtsev>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rnuravtsev/sass-stylelint-config/issues"
+    "url": "https://github.com/rnuravtsev/stylelint-config-scss-favorite/issues"
   },
-  "homepage": "https://github.com/rnuravtsev/sass-stylelint-config#readme",
+  "homepage": "https://github.com/rnuravtsev/stylelint-config-scss-favorite#readme",
   "devDependencies": {
     "stylelint-config-clean-order": "^5.2.0",
     "stylelint-config-recommended-scss": "^13.1.0",
