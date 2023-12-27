@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-scss-favorite",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple and effective scss stylelint config",
   "main": "index.js",
   "repository": {
@@ -21,7 +21,7 @@
   "homepage": "https://github.com/rnuravtsev/stylelint-config-scss-favorite#readme",
   "dependencies": {
     "stylelint-config-clean-order": "^5.2.0",
-    "stylelint-config-recommended-scss": "^13.1.0",
+    "stylelint-config-recommended-scss": "^14.0.0",
     "stylelint-config-standard": "^35.0.0",
     "stylelint-scss": "^5.3.1"
   }
