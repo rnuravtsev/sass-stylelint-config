@@ -2,7 +2,7 @@
   "name": "stylelint-config-scss-favorite",
   "version": "1.0.3",
   "description": "Simple and effective scss stylelint config",
-  "main": "index.js",
+  "exports": "./index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rnuravtsev/stylelint-config-scss-favorite.git"
