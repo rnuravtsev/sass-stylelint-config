@@ -2,11 +2,12 @@
 
 This is a minimalist yet powerful SCSS configuration package, developed with the needs of modern web developers in mind.
 
-My configs for Stylelint. Uses rules from:
+Uses rules from:
 - [clean-order](https://github.com/kutsan/stylelint-config-clean-order)
 - [stylelint-config-recommended-scss](https://www.npmjs.com/package/stylelint-config-recommended-scss)
+- [stylelint-config-standard](https://www.npmjs.com/package/stylelint-config-standard)
 
-## Install
+## Install 
 Via npm:
 ```bash
 npm i stylelint-config-scss-favorite -D
@@ -21,7 +22,7 @@ yarn add stylelint-config-scss-favorite -D
 Set your stylelint config to:
 ```json
 {
-"extends": "stylelint-config-scss-favorite"
+  "extends": "stylelint-config-scss-favorite"
 }
 ```
-[More details how to extend](https://github.com/stylelint/stylelint/blob/main/docs/user-guide/configure.md#extends)
+[More details how to extend stylelint config](https://github.com/stylelint/stylelint/blob/main/docs/user-guide/configure.md#extends)
